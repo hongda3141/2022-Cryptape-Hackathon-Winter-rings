@@ -1,1 +1,7 @@
 **/target/
+
+# example
+# /mytmp
+# /mytmp/*
+# **/mytmp
+# **/mytmp/*
